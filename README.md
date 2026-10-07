@@ -79,3 +79,5 @@ Aplikasi dibangun mengikuti pola arsitektur **Model-View-ViewModel (MVVM)** sesu
 4. Untuk meng-generate APK debug pengumpulan:
    - Pilih menu **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
    - APK akan tersedia di: `app/build/outputs/apk/debug/app-debug.apk`.
+
+LINK VIDEO YOUTUBE : https://youtu.be/E4qTpP2yKwg
